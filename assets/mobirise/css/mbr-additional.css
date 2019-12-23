@@ -2422,6 +2422,44 @@ section.lazy-placeholder:after {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-rLubDbZrwa {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  position: relative;
+  background-color: #ffffff;
+}
+.cid-rLubDbZrwa p {
+  color: #767676;
+}
+.cid-rLubDbZrwa .card {
+  border-radius: 0px;
+  margin-bottom: -1px;
+}
+.cid-rLubDbZrwa .card .card-header {
+  border-radius: 0px;
+  border: 0px;
+  padding: 0;
+}
+.cid-rLubDbZrwa .card .card-header a.panel-title {
+  margin-bottom: 0;
+  margin-top: -1px;
+  font-weight: 500;
+  font-style: normal;
+  display: block;
+  text-decoration: none !important;
+  line-height: normal;
+}
+.cid-rLubDbZrwa .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-rLubDbZrwa .card .card-header a.panel-title h4 {
+  border: 1px solid #dfdfdf;
+  padding: 1.3rem 2rem;
+  margin-bottom: 0;
+}
+.cid-rLubDbZrwa .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #333333;
